@@ -1,0 +1,28 @@
+﻿--Lost Update - Lai Gia Phú - 1712662
+--T1
+BEGIN TRAN
+EXEC sp_XemThucDon 1,'2020-01-01'
+Waitfor delay '00:00:10'
+EXEC sp_CapNhatSoPhanAn 1,1,'2020-01-01',50,45
+COMMIT TRAN
+--T2
+BEGIN TRAN
+EXEC sp_XemThucDon 1,'2020-01-01'
+EXEC sp_CapNhatSoPhanAn 1,1,'2020-01-01',50,40
+COMMIT TRAN
+-- Sửa : mức cô lập REPEATABLE READ ở T1 và T2 
+--lúc này SQL chọn T2 làm victim deadlock và bắt thưc hiện lại
+--EXEC sp_CapNhatSoPhanAn 1,1,'2020-01-01',50,50
+--T1
+BEGIN TRAN
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+EXEC sp_XemThucDon 1,'2020-01-01'
+Waitfor delay '00:00:10'
+EXEC sp_CapNhatSoPhanAn 1,1,'2020-01-01',50,45
+COMMIT TRAN
+--T2
+BEGIN TRAN
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+EXEC sp_XemThucDon 1,'2020-01-01'
+EXEC sp_CapNhatSoPhanAn 1,1,'2020-01-01',50,40
+COMMIT TRAN

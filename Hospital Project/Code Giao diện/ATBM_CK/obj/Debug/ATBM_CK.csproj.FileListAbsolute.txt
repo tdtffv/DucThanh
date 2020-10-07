@@ -1,0 +1,47 @@
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.exe.config
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.exe
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.pdb
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.QTCSDL.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form3.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Properties.Resources.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csproj.GenerateResource.cache
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csproj.CoreCompileInputs.cache
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.exe
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.pdb
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csprojAssemblyReference.cache
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form10.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form11.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form12.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form4.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form5.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form6.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form7.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form8.resources
+D:\Năm 3\Học kỳ 2\AT&BM\Đồ án\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form9.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.exe.config
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.exe
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\ATBM_CK.pdb
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\EntityFramework.dll
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\EntityFramework.SqlServer.dll
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\EntityFramework.xml
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\bin\Debug\EntityFramework.SqlServer.xml
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csprojAssemblyReference.cache
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form10.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form11.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form12.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\GDPhanHe2.Form2.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form3.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form4.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form6.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form7.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form8.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form9.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Properties.Resources.resources
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csproj.GenerateResource.cache
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csproj.CoreCompileInputs.cache
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.csproj.CopyComplete
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.exe
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.pdb
+H:\HK06\AnToanVaBaoMat\CuoiKi\ATBM_CK\ATBM_CK\obj\Debug\ATBM_CK.Form1.resources
